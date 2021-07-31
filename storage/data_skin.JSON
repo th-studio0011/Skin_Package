@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "data": {
+    "data": [
+      {
+        "name":"RED CRIMINAL",
+        "files": [
+          "20210731-CONFIG-RED-CRIMINAL.7zip"
+        ],
+        "images": [
+          "2021-07-31-RED-CRIMINAL.jpg"
+        ],
+	"skin_type": "1"
+      }
+    ]
+  }
+}
